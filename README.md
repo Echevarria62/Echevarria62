@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Echevarria62
-- 👀 I’m interested in ...home assistant 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...home assistant
+- I work as independent 📡 🛰️ Telcom 🔌 electrician and 💻 network Installer 
+- 🌱 I’m currently learning ...you never stop learning 
+- 🇪🇸 I'm Spanish an live in Cartagena 
+- 📫 How to reach me ... here
 
 <!---
 Echevarria62/Echevarria62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
